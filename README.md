@@ -16,7 +16,7 @@ Loading… █[][][][][][][][][] 10%
     + Interaction: alert, prompt, confirm ✅
     + Type Conversions ✅
     + Basic operators, maths ✅
-    + Comparisons
+    + Comparisons ✅
     + Conditional branching: if, '?'
     + Logical operators
     + Nullish coalescing operator '??'
