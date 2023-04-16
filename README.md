@@ -12,9 +12,9 @@ Loading… █[][][][][][][][][] 10%
     + Code structure  ✅
     + The modern mode, "use strict"  ✅
     + Variables ✅
-    + Data types
-    + Interaction: alert, prompt, confirm
-    + Type Conversions
+    + Data types ✅
+    + Interaction: alert, prompt, confirm ✅
+    + Type Conversions ✅
     + Basic operators, maths
     + Comparisons
     + Conditional branching: if, '?'
