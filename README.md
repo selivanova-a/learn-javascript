@@ -8,9 +8,9 @@ Loading… █[][][][][][][][][] 10%
     + Developer console ✅ 
     
 * ## JavaScript Fundamentals
-    + Hello, world!  
-    + Code structure 
-    + The modern mode, "use strict"
+    + Hello, world! ✅
+    + Code structure  ✅
+    + The modern mode, "use strict"  ✅
     + Variables
     + Data types
     + Interaction: alert, prompt, confirm
