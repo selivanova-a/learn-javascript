@@ -15,7 +15,7 @@ Loading… █[][][][][][][][][] 10%
     + Data types ✅
     + Interaction: alert, prompt, confirm ✅
     + Type Conversions ✅
-    + Basic operators, maths
+    + Basic operators, maths ✅
     + Comparisons
     + Conditional branching: if, '?'
     + Logical operators
