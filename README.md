@@ -1,11 +1,11 @@
-# PART 1 - The JavaScript language
+# PART 1 - [The JavaScript language](https://learn.javascript.ru/)
 Loading… █[][][][][][][][][] 10%
 * ## An introduction                   
 
     + An Introduction to JavaScript ✅ 
     + Manuals and specifications ✅    
-    + Code editors
-    + Developer console
+    + Code editors ✅ 
+    + Developer console ✅ 
     
 * ## JavaScript Fundamentals
     + Hello, world!  
