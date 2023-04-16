@@ -11,7 +11,7 @@ Loading… █[][][][][][][][][] 10%
     + Hello, world! ✅
     + Code structure  ✅
     + The modern mode, "use strict"  ✅
-    + Variables
+    + Variables ✅
     + Data types
     + Interaction: alert, prompt, confirm
     + Type Conversions
