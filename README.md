@@ -23,7 +23,7 @@ Loading… ██[][][][][][][][] 20%
     + Loops: while and for ✅
     + The "switch" statement ✅
     + Functions ✅
-    +Function expressions
+    + Function expressions
     + Arrow functions, the basics
     + JavaScript specials
     
