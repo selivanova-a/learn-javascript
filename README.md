@@ -20,7 +20,7 @@ Loading… █[][][][][][][][][] 10%
     + Conditional branching: if, '?' ✅
     + Logical operators ✅
     + Nullish coalescing operator '??' ✅
-    + Loops: while and for
+    + Loops: while and for ✅
     + The "switch" statement
     + Functions
     +Function expressions
