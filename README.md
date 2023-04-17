@@ -22,7 +22,7 @@ Loading… ██[][][][][][][][] 20%
     + Nullish coalescing operator '??' ✅
     + Loops: while and for ✅
     + The "switch" statement ✅
-    + Functions
+    + Functions ✅
     +Function expressions
     + Arrow functions, the basics
     + JavaScript specials
