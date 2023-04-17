@@ -18,7 +18,7 @@ Loading… █[][][][][][][][][] 10%
     + Basic operators, maths ✅
     + Comparisons ✅
     + Conditional branching: if, '?' ✅
-    + Logical operators
+    + Logical operators ✅
     + Nullish coalescing operator '??'
     + Loops: while and for
     + The "switch" statement
