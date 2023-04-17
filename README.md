@@ -1,5 +1,5 @@
 # PART 1 - [The JavaScript language](https://learn.javascript.ru/)
-Loading… █[][][][][][][][][] 10%
+Loading… ██[][][][][][][][] 20%
 * ## An introduction                   
 
     + An Introduction to JavaScript ✅ 
@@ -21,7 +21,7 @@ Loading… █[][][][][][][][][] 10%
     + Logical operators ✅
     + Nullish coalescing operator '??' ✅
     + Loops: while and for ✅
-    + The "switch" statement
+    + The "switch" statement ✅
     + Functions
     +Function expressions
     + Arrow functions, the basics
