@@ -25,7 +25,7 @@ Loading… ██[][][][][][][][] 20%
     + Functions ✅
     + Function expressions ✅
     + Arrow functions, the basics ✅
-    + JavaScript specials
+    + JavaScript specials  ✅
     
 * ## Code quality
     + Debugging in the browser
