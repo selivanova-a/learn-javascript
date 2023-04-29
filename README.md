@@ -24,7 +24,7 @@ Loading… ██[][][][][][][][] 20%
     + The "switch" statement ✅
     + Functions ✅
     + Function expressions ✅
-    + Arrow functions, the basics
+    + Arrow functions, the basics ✅
     + JavaScript specials
     
 * ## Code quality
