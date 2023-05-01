@@ -1,5 +1,5 @@
 # PART 1 - [The JavaScript language](https://learn.javascript.ru/)
-Loading… ██[][][][][][][][] 20%
+Loading… ███[][][][][][][] 30%
 * ## An introduction                   
 
     + An Introduction to JavaScript ✅ 
@@ -28,12 +28,12 @@ Loading… ██[][][][][][][][] 20%
     + JavaScript specials  ✅
     
 * ## Code quality
-    + Debugging in the browser
-    + Coding Style
-    + Comments
-    + Ninja code
-    + Automated testing with Mocha
-    + Polyfills and transpilers
+    + Debugging in the browser ✅
+    + Coding Style ✅
+    + Comments ✅
+    + Ninja code ✅
+    + Automated testing with Mocha ✅
+    + Polyfills and transpilers ✅
     
 * ## Objects: the basics
     + Objects
