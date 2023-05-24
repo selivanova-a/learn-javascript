@@ -36,7 +36,7 @@ Loading… ███[][][][][][][] 30%
     + Polyfills and transpilers ✅
     
 * ## Objects: the basics
-    + Objects
+    + Objects ✅
     + Object references and copying
     + Garbage collection
     + Object methods, "this"
