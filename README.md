@@ -38,7 +38,7 @@ Loading… ███[][][][][][][] 30%
 * ## Objects: the basics
     + Objects ✅
     + Object references and copying ✅
-    + Garbage collection
+    + Garbage collection ✅
     + Object methods, "this"
     + Constructor, operator "new"
     + Optional chaining '?.'
