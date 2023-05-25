@@ -40,7 +40,7 @@ Loading… ███[][][][][][][] 30%
     + Object references and copying ✅
     + Garbage collection ✅
     + Object methods, "this" ✅
-    + Constructor, operator "new"
+    + Constructor, operator "new" ✅
     + Optional chaining '?.'
     + Symbol type
     + Object to primitive conversion
