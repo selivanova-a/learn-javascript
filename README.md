@@ -41,7 +41,7 @@ Loading… ███[][][][][][][] 30%
     + Garbage collection ✅
     + Object methods, "this" ✅
     + Constructor, operator "new" ✅
-    + Optional chaining '?.'
+    + Optional chaining '?.' ✅
     + Symbol type
     + Object to primitive conversion
   
