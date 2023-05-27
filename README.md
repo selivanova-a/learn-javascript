@@ -42,7 +42,7 @@ Loading… ███[][][][][][][] 30%
     + Object methods, "this" ✅
     + Constructor, operator "new" ✅
     + Optional chaining '?.' ✅
-    + Symbol type
+    + Symbol type ✅
     + Object to primitive conversion
   
 + ## Data types
