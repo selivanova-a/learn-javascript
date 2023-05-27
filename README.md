@@ -43,7 +43,7 @@ Loading… ███[][][][][][][] 30%
     + Constructor, operator "new" ✅
     + Optional chaining '?.' ✅
     + Symbol type ✅
-    + Object to primitive conversion
+    + Object to primitive conversion ✅
   
 + ## Data types
     + Methods of primitives
