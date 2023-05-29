@@ -46,7 +46,7 @@ Loading… ███[][][][][][][] 30%
     + Object to primitive conversion ✅
   
 + ## Data types
-    + Methods of primitives
+    + Methods of primitives ✅
     + Numbers
     + Strings
     + Arrays
