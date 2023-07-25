@@ -1,5 +1,5 @@
 # PART 1 - [The JavaScript language](https://learn.javascript.ru/)
-Loading… ███[][][][][][][] 30%
+Loading… ████[][][][][][] 40%
 * ## An introduction                   
 
     + An Introduction to JavaScript ✅ 
@@ -47,7 +47,7 @@ Loading… ███[][][][][][][] 30%
   
 + ## Data types
     + Methods of primitives ✅
-    + Numbers
+    + Numbers ✅
     + Strings
     + Arrays
     + Array methods
