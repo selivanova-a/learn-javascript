@@ -49,7 +49,7 @@ Loading… ████[][][][][][] 40%
     + Methods of primitives ✅
     + Numbers ✅
     + Strings ✅
-    + Arrays
+    + Arrays ✅
     + Array methods
     + Iterables
     + Map and Set
