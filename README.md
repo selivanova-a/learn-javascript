@@ -48,7 +48,7 @@ Loading… ████[][][][][][] 40%
 + ## Data types
     + Methods of primitives ✅
     + Numbers ✅
-    + Strings
+    + Strings ✅
     + Arrays
     + Array methods
     + Iterables
