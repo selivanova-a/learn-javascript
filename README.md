@@ -54,7 +54,7 @@ Loading… ████[][][][][][] 40%
     + Iterables ✅
     + Map and Set ✅
     + WeakMap and WeakSet ✅
-    + Object.keys, values, entries
+    + Object.keys, values, entries ✅
     + Destructuring assignment
     + Date and time
     + JSON methods, toJSON
