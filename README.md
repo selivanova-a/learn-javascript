@@ -50,8 +50,8 @@ Loading… ████[][][][][][] 40%
     + Numbers ✅
     + Strings ✅
     + Arrays ✅
-    + Array methods
-    + Iterables
+    + Array methods ✅
+    + Iterables ✅
     + Map and Set
     + WeakMap and WeakSet
     + Object.keys, values, entries
