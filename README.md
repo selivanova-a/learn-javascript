@@ -53,7 +53,7 @@ Loading… ████[][][][][][] 40%
     + Array methods ✅
     + Iterables ✅
     + Map and Set ✅
-    + WeakMap and WeakSet
+    + WeakMap and WeakSet ✅
     + Object.keys, values, entries
     + Destructuring assignment
     + Date and time
