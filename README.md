@@ -55,7 +55,7 @@ Loading… ████[][][][][][] 40%
     + Map and Set ✅
     + WeakMap and WeakSet ✅
     + Object.keys, values, entries ✅
-    + Destructuring assignment
+    + Destructuring assignment ✅
     + Date and time
     + JSON methods, toJSON
     
