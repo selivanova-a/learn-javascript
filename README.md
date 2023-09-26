@@ -1,5 +1,5 @@
 # PART 1 - [The JavaScript language](https://learn.javascript.ru/)
-Loading… ████[][][][][][] 40%
+Loading… █████[][][][][] 50%
 * ## An introduction                   
 
     + An Introduction to JavaScript ✅ 
@@ -56,7 +56,7 @@ Loading… ████[][][][][][] 40%
     + WeakMap and WeakSet ✅
     + Object.keys, values, entries ✅
     + Destructuring assignment ✅
-    + Date and time
+    + Date and time ✅
     + JSON methods, toJSON
     
 + ## Advanced working with functions
