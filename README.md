@@ -57,7 +57,7 @@ Loading… █████[][][][][] 50%
     + Object.keys, values, entries ✅
     + Destructuring assignment ✅
     + Date and time ✅
-    + JSON methods, toJSON
+    + JSON methods, toJSON ✅
     
 + ## Advanced working with functions
     + Recursion and stack
