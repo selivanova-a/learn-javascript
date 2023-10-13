@@ -61,7 +61,7 @@ Loading… █████[][][][][] 50%
     
 + ## Advanced working with functions
     + Recursion and stack ✅
-    + Rest parameters and spread syntax
+    + Rest parameters and spread syntax ✅
     + Variable scope, closure
     + The old "var"
     + Global object
