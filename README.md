@@ -60,7 +60,7 @@ Loading… █████[][][][][] 50%
     + JSON methods, toJSON ✅
     
 + ## Advanced working with functions
-    + Recursion and stack
+    + Recursion and stack ✅
     + Rest parameters and spread syntax
     + Variable scope, closure
     + The old "var"
