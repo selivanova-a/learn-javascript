@@ -63,7 +63,7 @@ Loading… █████[][][][][] 50%
     + Recursion and stack ✅
     + Rest parameters and spread syntax ✅
     + Variable scope, closure ✅
-    + The old "var"
+    + The old "var" ✅
     + Global object
     + Function object, NFE
     + The "new Function" syntax
