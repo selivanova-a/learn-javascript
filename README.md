@@ -64,7 +64,7 @@ Loading… █████[][][][][] 50%
     + Rest parameters and spread syntax ✅
     + Variable scope, closure ✅
     + The old "var" ✅
-    + Global object
+    + Global object ✅
     + Function object, NFE
     + The "new Function" syntax
     + Scheduling: setTimeout and setInterval
