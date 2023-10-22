@@ -65,7 +65,7 @@ Loading… █████[][][][][] 50%
     + Variable scope, closure ✅
     + The old "var" ✅
     + Global object ✅
-    + Function object, NFE
+    + Function object, NFE ✅
     + The "new Function" syntax
     + Scheduling: setTimeout and setInterval
     + Decorators and forwarding, call/apply
