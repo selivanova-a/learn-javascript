@@ -67,7 +67,7 @@ Loading… █████[][][][][] 50%
     + Global object ✅
     + Function object, NFE ✅
     + The "new Function" syntax ✅
-    + Scheduling: setTimeout and setInterval
+    + Scheduling: setTimeout and setInterval ✅
     + Decorators and forwarding, call/apply
     + Function binding
     + Arrow functions revisited
