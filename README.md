@@ -66,7 +66,7 @@ Loading… █████[][][][][] 50%
     + The old "var" ✅
     + Global object ✅
     + Function object, NFE ✅
-    + The "new Function" syntax
+    + The "new Function" syntax ✅
     + Scheduling: setTimeout and setInterval
     + Decorators and forwarding, call/apply
     + Function binding
