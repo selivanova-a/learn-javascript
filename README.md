@@ -1,5 +1,5 @@
 # PART 1 - [The JavaScript language](https://learn.javascript.ru/)
-Loading… █████[][][][][] 50%
+Loading… ██████[][][][] 60%
 * ## An introduction                   
 
     + An Introduction to JavaScript ✅ 
@@ -68,8 +68,8 @@ Loading… █████[][][][][] 50%
     + Function object, NFE ✅
     + The "new Function" syntax ✅
     + Scheduling: setTimeout and setInterval ✅
-    + Decorators and forwarding, call/apply
-    + Function binding
+    + Decorators and forwarding, call/apply / ✅ /
+    + Function binding ✅
     + Arrow functions revisited
     
 + ## Object properties configuration
