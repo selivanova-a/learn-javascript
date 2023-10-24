@@ -73,8 +73,8 @@ Loading… ██████[][][][] 60%
     + Arrow functions revisited ✅
     
 + ## Object properties configuration
-    + Property flags and descriptors
-    + Property getters and setters
+    + Property flags and descriptors ✅
+    + Property getters and setters ✅
     
 + ## Prototypes, inheritance
      + Prototypal inheritance
