@@ -78,8 +78,8 @@ Loading… ██████[][][][] 60%
     
 + ## Prototypes, inheritance
      + Prototypal inheritance ✅
-     + F.prototype
-     + Native prototypes
+     + F.prototype ✅
+     + Native prototypes 
      + Prototype methods, objects without __proto__
      
 + ## Classes
