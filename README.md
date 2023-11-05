@@ -77,7 +77,7 @@ Loading… ██████[][][][] 60%
     + Property getters and setters ✅
     
 + ## Prototypes, inheritance
-     + Prototypal inheritance
+     + Prototypal inheritance ✅
      + F.prototype
      + Native prototypes
      + Prototype methods, objects without __proto__
