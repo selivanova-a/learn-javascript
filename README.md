@@ -1,5 +1,5 @@
 # PART 1 - [The JavaScript language](https://learn.javascript.ru/)
-Loading… ██████[][][][] 60%
+Loading… ███████[][][] 70%
 * ## An introduction                   
 
     + An Introduction to JavaScript ✅ 
@@ -83,7 +83,7 @@ Loading… ██████[][][][] 60%
      + Prototype methods, objects without __proto__ ✅
      
 + ## Classes
-    + Class basic syntax
+    + Class basic syntax ✅
     + Class inheritance
     + Static properties and methods
     + Private and protected properties and methods
