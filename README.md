@@ -89,7 +89,7 @@ Loading… ███████[][][] 70%
     + Private and protected properties and methods ✅
     + Extending built-in classes ✅
     + Class checking: "instanceof" ✅
-    + Mixins
+    + Mixins ✅
     
 + ## Error handling
     + Error handling, "try...catch"
