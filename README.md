@@ -92,7 +92,7 @@ Loading… ███████[][][] 70%
     + Mixins ✅
     
 + ## Error handling
-    + Error handling, "try...catch"
+    + Error handling, "try...catch" ✅
     + Custom errors, extending Error
     
 + ## Promises, async/await
