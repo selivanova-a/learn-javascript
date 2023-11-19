@@ -93,7 +93,7 @@ Loading… ███████[][][] 70%
     
 + ## Error handling
     + Error handling, "try...catch" ✅
-    + Custom errors, extending Error
+    + Custom errors, extending Error ✅
     
 + ## Promises, async/await
     + Introduction: callbacks
