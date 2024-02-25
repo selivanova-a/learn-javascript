@@ -96,8 +96,8 @@ Loading… ███████[][][] 70%
     + Custom errors, extending Error ✅
     
 + ## Promises, async/await
-    + Introduction: callbacks
-    + Promise
+    + Introduction: callbacks ✅
+    + Promise 
     + Promises chaining
     + Error handling with promises
     + Promise API
