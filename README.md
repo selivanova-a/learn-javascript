@@ -121,3 +121,62 @@ Loading… ███████[][][] 70%
     + Reference Type
     + BigInt
     + Unicode, String internals
+
+
+# PART 2 - [Browser: Document, Events, Interfaces](https://learn.javascript.ru/)
++ ##  Document
+  + Browser environment, specs
+  + DOM tree
+  + Walking the DOM
+  + Searching: getElement*, querySelector*
+  + Node properties: type, tag and contents
+  + Attributes and properties
+  + Modifying the document
+  + Styles and classes
+  + Element size and scrolling
+  + Window sizes and scrolling
+  + Coordinates
+
++ ##  Introduction to Events
+  + Introduction to browser events
+  + Bubbling and capturing
+  + Event delegation
+  + Browser default actions
+  + Dispatching custom events
+
++ ##  UI Events
+  + Mouse events
+  + Moving the mouse: mouseover/out, mouseenter/leave
+  + Drag'n'Drop with mouse events
+  + Pointer events
+  + Keyboard: keydown and keyup
+  + Scrolling
+
++ ##  Forms, controls
+  + Form properties and methods
+  + Focusing: focus/blur
+  + Events: change, input, cut, copy, paste
+  + Forms: event and method submit
+
++ ##  Document and resource loading
+  + Page: DOMContentLoaded, load, beforeunload, unload
+  + Scripts: async, defer
+  + Resource loading: onload and onerror
+
++ ##  Miscellaneous
+  + Mutation observer
+  + Selection and Range
+  + Event loop: microtasks and macrotasks
+
+  
+
+
+
+
+
+
+
+  
+
+
+  
