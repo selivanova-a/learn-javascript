@@ -97,7 +97,7 @@ Loading… ███████[][][] 70%
     
 + ## Promises, async/await
     + Introduction: callbacks ✅
-    + Promise 
+    + Promise ✅
     + Promises chaining
     + Error handling with promises
     + Promise API
