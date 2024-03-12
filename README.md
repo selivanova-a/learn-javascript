@@ -96,7 +96,7 @@ Loading… ████████[][] 80%
   - Error handling with promises ✅
   - Promise API ✅
   - Promisification ✅
-  - Microtasks
+  - Microtasks ✅
   - Async/await
 * ## Generators, advanced iteration
   - Generators
