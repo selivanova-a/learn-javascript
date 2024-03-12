@@ -1,5 +1,5 @@
 # PART 1 - [The JavaScript language](https://learn.javascript.ru/)
-Loading… ███████[][][] 70%
+Loading… ████████[][] 80%
 * ## An introduction                   
 
     + An Introduction to JavaScript ✅ 
@@ -98,7 +98,7 @@ Loading… ███████[][][] 70%
 + ## Promises, async/await
     + Introduction: callbacks ✅
     + Promise ✅
-    + Promises chaining
+    + Promises chaining ✅
     + Error handling with promises
     + Promise API
     + Promisification
@@ -125,7 +125,7 @@ Loading… ███████[][][] 70%
 
 # PART 2 - [Browser: Document, Events, Interfaces](https://learn.javascript.ru/)
 + ##  Document
-  + Browser environment, specs
+  + Browser environment, specs ✅
   + DOM tree
   + Walking the DOM
   + Searching: getElement*, querySelector*
