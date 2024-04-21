@@ -97,7 +97,7 @@ Loading… ████████[][] 80%
   - Promise API ✅
   - Promisification ✅
   - Microtasks ✅
-  - Async/await
+  - Async/await ✅
 * ## Generators, advanced iteration
   - Generators
   - Async iteration and generators
