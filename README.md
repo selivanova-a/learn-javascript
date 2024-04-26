@@ -99,8 +99,8 @@ Loading… ████████[][] 80%
   - Microtasks ✅
   - Async/await ✅
 * ## Generators, advanced iteration
-  - Generators
-  - Async iteration and generators
+  - Generators ✅
+  - Async iteration and generators ✅
 * ## Modules
   - Modules, introduction
   - Export and Import
