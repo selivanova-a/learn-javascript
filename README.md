@@ -1,6 +1,6 @@
 # PART 1 - [The JavaScript language](https://learn.javascript.ru/)
 
-Loading… ████████[][] 80%
+Loading… █████████[] 90%
 
 - ## An introduction
 
@@ -102,7 +102,7 @@ Loading… ████████[][] 80%
   - Generators ✅
   - Async iteration and generators ✅
 * ## Modules
-  - Modules, introduction
+  - Modules, introduction ✅
   - Export and Import
   - Dynamic imports
 * ## Miscellaneous
