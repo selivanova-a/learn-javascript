@@ -104,7 +104,7 @@ Loading… █████████[] 90%
 * ## Modules
   - Modules, introduction ✅
   - Export and Import ✅
-  - Dynamic imports
+  - Dynamic imports ✅
 * ## Miscellaneous
   - Proxy and Reflect
   - Eval: run a code string
