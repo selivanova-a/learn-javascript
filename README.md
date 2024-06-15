@@ -103,7 +103,7 @@ Loading… █████████[] 90%
   - Async iteration and generators ✅
 * ## Modules
   - Modules, introduction ✅
-  - Export and Import
+  - Export and Import ✅
   - Dynamic imports
 * ## Miscellaneous
   - Proxy and Reflect
