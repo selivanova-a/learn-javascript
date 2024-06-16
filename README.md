@@ -106,7 +106,7 @@ Loading… █████████[] 90%
   - Export and Import ✅
   - Dynamic imports ✅
 * ## Miscellaneous
-  - Proxy and Reflect
+  - Proxy and Reflect ✅
   - Eval: run a code string
   - Currying
   - Reference Type
