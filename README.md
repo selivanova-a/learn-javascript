@@ -108,10 +108,11 @@ Loading… █████████[] 90%
 * ## Miscellaneous
   - Proxy and Reflect ✅
   - Eval: run a code string ✅
-  - Currying
+  - Currying ✅
   - Reference Type
   - BigInt
   - Unicode, String internals
+  - WeakRef and FinalizationRegistry
 
 # PART 2 - [Browser: Document, Events, Interfaces](https://learn.javascript.ru/)
 
