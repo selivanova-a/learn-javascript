@@ -107,7 +107,7 @@ Loading… █████████[] 90%
   - Dynamic imports ✅
 * ## Miscellaneous
   - Proxy and Reflect ✅
-  - Eval: run a code string
+  - Eval: run a code string ✅
   - Currying
   - Reference Type
   - BigInt
