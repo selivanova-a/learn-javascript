@@ -119,7 +119,7 @@ Loading… █████████[] 90%
 - ## Document
 
   - Browser environment, specs ✅
-  - DOM tree
+  - DOM tree ✅
   - Walking the DOM
   - Searching: getElement*, querySelector*
   - Node properties: type, tag and contents
