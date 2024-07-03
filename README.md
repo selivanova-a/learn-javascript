@@ -109,7 +109,7 @@ Loading… █████████[] 90%
   - Proxy and Reflect ✅
   - Eval: run a code string ✅
   - Currying ✅
-  - Reference Type
+  - Reference Type ✅
   - BigInt
   - Unicode, String internals
   - WeakRef and FinalizationRegistry
